@@ -1,0 +1,27 @@
+{
+  "name": "xtension",
+  "version": "0.0.1",
+  "description": "A cross-browser extension library for Chrome, Firefox and Safari",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oemisch/xtension.git"
+  },
+  "keywords": [
+    "crossbrowser",
+    "extension",
+    "safari",
+    "firefox",
+    "chrome",
+    "opera",
+    "library",
+    "framework",
+    "cross-browser"
+  ],
+  "author": "Alexander Oemisch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oemisch/xtension/issues"
+  },
+  "homepage": "https://github.com/oemisch/xtension#readme"
+}
