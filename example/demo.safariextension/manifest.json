@@ -20,5 +20,8 @@
         "page": "views/global.html",
         "persistent": true
     },
-    "permissions": []
+    "permissions": [],
+    "icons": {
+        "16": "images/popup.png"
+    }
 }

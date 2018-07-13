@@ -1,5 +1,7 @@
 # xtension v0.0.1
-Develop one Browser-extension and ship it instantly for Safari, Chrome and more Browsers without adaptations. The xtension library provides an abstraction layer for pain-free cross-browser extension development and a handful of API's I found useful while developing [Bloom](http://getbloom.de).
+Develop one Browser-extension and ship it instantly for Safari, Chrome and more Browsers without adaptations. The xtension library provides an abstraction layer for pain-free cross browser extension development and a handful of API's I found useful while developing [Bloom](http://getbloom.de).
+
+This is a new package I initially built for myself out of laziness and became my first open source project. Please report issues, request features and get in touch with me.
 
 ## Installation
 Install the package with npm or download the script manually and add it to your Extension.
@@ -57,26 +59,26 @@ xt.messageGlobal("clickedElement", elem);
 ```
 
 ### getUrl(path)
-tbd
+Documentation work in Progress. Have a look at the comments in the index.js file in the meantime.
 ### messageAllTabs(message, data)
-tbd
+Documentation work in Progress. Have a look at the comments in the index.js file in the meantime.
 ### messageActiveTab(message, data)
-tbd
+Documentation work in Progress. Have a look at the comments in the index.js file in the meantime.
 ### messagePopover(message, data)
-tbd
+Documentation work in Progress. Have a look at the comments in the index.js file in the meantime.
 ### openTab(url)
-tbd
+Documentation work in Progress. Have a look at the comments in the index.js file in the meantime.
 ### createTab(url)
-tbd
+Documentation work in Progress. Have a look at the comments in the index.js file in the meantime.
 ### changeLocation(url)
-tbd
+Documentation work in Progress. Have a look at the comments in the index.js file in the meantime.
 ### setPopupWindow(url)
-tbd
+Documentation work in Progress. Have a look at the comments in the index.js file in the meantime.
 ### browserInfo()
-tbd
+Documentation work in Progress. Have a look at the comments in the index.js file in the meantime.
 ### addEventListener(name, handler)
-tbd
+Documentation work in Progress. Have a look at the comments in the index.js file in the meantime.
 ### removeEventListener(name, handler)
-tbd
+Documentation work in Progress. Have a look at the comments in the index.js file in the meantime.
 ### fireEvent(name, args[])
-tbd
+Documentation work in Progress. Have a look at the comments in the index.js file in the meantime.

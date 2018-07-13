@@ -31,6 +31,21 @@
 				<integer>200</integer>
 			</dict>
 		</array>
+		<key>Toolbar Items</key>
+		<array>
+			<dict>
+				<key>Identifier</key>
+				<string>Demo</string>
+				<key>Image</key>
+				<string>images/popup.png</string>
+				<key>Include By Default</key>
+				<true/>
+				<key>Label</key>
+				<string>Demo</string>
+				<key>Popover</key>
+				<string>Demo</string>
+			</dict>
+		</array>
 	</dict>
 	<key>Content</key>
 	<dict>
