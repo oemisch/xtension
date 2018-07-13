@@ -1,7 +1,7 @@
-# xtension v0.0.1
+# Simplified Cross Browser Extension Development
 Develop one Browser-extension and ship it instantly for Safari, Chrome and more Browsers without adaptations. The xtension library provides an abstraction layer for pain-free cross browser extension development and a handful of API's I found useful while developing [Bloom](http://getbloom.de).
 
-This is a new package I initially built for myself out of laziness and became my first open source project. Please report issues, request features and get in touch with me.
+This is a new package I initially built for myself and became my first open source project. Please report issues, request features and get in touch with me.
 
 ## Installation
 Install the package with npm or download the script manually and add it to your Extension.
