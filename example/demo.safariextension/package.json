@@ -1,0 +1,10 @@
+{
+  "name": "xtension Demo",
+  "version": "0.0.1",
+  "description": "Demo Extension for the xtension library",
+  "author": "Alexander Oemisch",
+  "license": "ISC",
+  "dependencies": {
+    "xtension": "0.0.1"
+  }
+}

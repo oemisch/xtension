@@ -1,0 +1,24 @@
+{
+    "author": "Alexander Oemisch",
+    "version": "0.0.1",
+    "manifest_version": 2,
+    "name": "Demo",
+    "description": "Demo Extension for the xtension library",
+    "homepage_url": "https://github.com/oemisch/xtension",
+    "content_security_policy": "script-src 'self'; object-src 'self'",
+    "content_scripts": [{
+        "matches": ["<all_urls>"],
+        "js": ["node_modules/xtension/index.js", "scripts/content_script.js"],
+        "css": []
+    }],
+    "browser_action": {
+        "default_title": "Demo Popup",
+        "default_popup": "views/popup.html"
+    },
+    "web_accessible_resources": [],
+    "background": {
+        "page": "views/global.html",
+        "persistent": true
+    },
+    "permissions": []
+}
