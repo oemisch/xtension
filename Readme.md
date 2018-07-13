@@ -16,7 +16,7 @@ If you start from scratch, the extension builder will create a folder `EXTENSION
 If you are building a content-script extension, make sure to include the script to your content_scripts:
 On **Safari**, use the Extension Builder to add it as one of the first *Start Scripts* to the *Injected Content*.
 On **Chrome**, open `manifest.json` in your root extension folder and add this library to your content_scripts:
-```javascript
+```json
 "content_scripts": [{
     "js": [
       "node_modules/xtension/index.js.js",
