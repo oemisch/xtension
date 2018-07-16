@@ -1,6 +1,6 @@
 {
   "name": "xtension",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "A cross-browser extension library for Chrome, Firefox and Safari",
   "main": "index.js",
   "repository": {
